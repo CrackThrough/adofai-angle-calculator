@@ -69,7 +69,7 @@ namespace AngleCalculator
                     int stack6 = code.Length - Regex.Replace(code, @"[6]", "").Length % 5;
                     int stack7 = code.Length - Regex.Replace(code, @"[7]", "").Length % 5;
                     int stack8 = code.Length - Regex.Replace(code, @"[8]", "").Length % 5;
-                    return ((72M * stack5) + (288M * stack6) + (900M / 7M * stack7) + ((360M - 900M / 7M) * stack8)) % 360M;
+                    return ((72M * stack5) + (288M * stack6) + (900M / 7M * stack7) + (1620M / 7M * stack8)) % 360M;
 
                 } else // normal tile types
                 {
