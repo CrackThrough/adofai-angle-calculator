@@ -11,7 +11,7 @@ If my source code is too messed up, you can read and use those following formula
 
 Special tiles' angle offset:
 ```cs
-((72 * stack5) + (288 * stack6) + (900 / 7 * stack7) + (1620 / 7 * stack8)) % 360
+decimal angle = ((72 * stack5) + (288 * stack6) + (900 / 7 * stack7) + (1620 / 7 * stack8)) % 360;
 ```
 
 Getting relative angle via absolute angle class
