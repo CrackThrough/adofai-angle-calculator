@@ -14,14 +14,14 @@ Special tiles' angle offset:
 decimal angle = ((72 * stack5) + (288 * stack6) + (900 / 7 * stack7) + (1620 / 7 * stack8)) % 360;
 ```
 
-Getting relative angle via absolute angle class
+Getting relative angle via absolute angle class:
 ```cs
 decimal angle = (NextTile - ThisTile + 540) % 360;
 if (Twirled) angle = 360 - angle;
 if (angle == 0) angle = 360;
 ```
 
-Getting ms between via angle and bpm
+Getting ms between via angle and bpm:
 ```cs
 decimal millisecondsBetween = Math.Round((1000 * angle) / (3 * bpm));
 ```
