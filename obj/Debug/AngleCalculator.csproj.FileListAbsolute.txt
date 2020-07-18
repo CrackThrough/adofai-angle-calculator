@@ -1,0 +1,10 @@
+D:\Workspace\non github project\AngleCalculator\bin\Debug\AngleCalculator.exe.config
+D:\Workspace\non github project\AngleCalculator\bin\Debug\AngleCalculator.exe
+D:\Workspace\non github project\AngleCalculator\bin\Debug\AngleCalculator.pdb
+D:\Workspace\non github project\AngleCalculator\obj\Debug\AngleCalculator.csprojAssemblyReference.cache
+D:\Workspace\non github project\AngleCalculator\obj\Debug\AngleCalculator.MainForm.resources
+D:\Workspace\non github project\AngleCalculator\obj\Debug\AngleCalculator.Properties.Resources.resources
+D:\Workspace\non github project\AngleCalculator\obj\Debug\AngleCalculator.csproj.GenerateResource.cache
+D:\Workspace\non github project\AngleCalculator\obj\Debug\AngleCalculator.csproj.CoreCompileInputs.cache
+D:\Workspace\non github project\AngleCalculator\obj\Debug\AngleCalculator.exe
+D:\Workspace\non github project\AngleCalculator\obj\Debug\AngleCalculator.pdb
