@@ -1,6 +1,5 @@
 # adofai-angle-calculator
 
-**! IMPORTANT !**
 This repository is related to a game called **"[A Dance of Fire and Ice](https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/)"** developed by **"[7th Beat Games](http://7thbe.at/)"**.
 
 Made for easy angle calculation and shown formula on screen.
